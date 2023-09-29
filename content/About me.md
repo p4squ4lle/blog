@@ -1,4 +1,4 @@
 ---
 title: About me.
 ---
-# Curriculum
+This page will eventually tell you something about me... 
