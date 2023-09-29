@@ -1,6 +1,6 @@
 ---
-title: Hallo und herzlich willkommen zu meinem Blog 👋
+title: Hello and welcome to my Blog 👋
 ---
-In kürze wird hier mehr passieren 🚧 This site is currently under construction 🚧
+Eventually there will be more to see here  🚧 This site is currently under construction 🚧
 
 [[About me]]
